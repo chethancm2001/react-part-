@@ -1,3 +1,7 @@
+This is the react part implentation ineuron query and ticket tracing app
+
+I implemeted jwt authentication , real time chat using socket i0(),curd operation using mern
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
